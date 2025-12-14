@@ -1,0 +1,10 @@
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\bin\Debug\Praktikum.exe.config
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\bin\Debug\Praktikum.exe
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\bin\Debug\Praktikum.pdb
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.csproj.AssemblyReference.cache
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.Form1.resources
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.Properties.Resources.resources
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.csproj.GenerateResource.cache
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.exe
+C:\Users\niki1\Desktop\Praktikum\Praktikum-master\obj\Debug\Praktikum.pdb

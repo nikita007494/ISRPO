@@ -1,0 +1,10 @@
+C:\Users\niki1\Desktop\ISPRO-PR4-master\bin\Debug\ПР4.exe.config
+C:\Users\niki1\Desktop\ISPRO-PR4-master\bin\Debug\ПР4.exe
+C:\Users\niki1\Desktop\ISPRO-PR4-master\bin\Debug\ПР4.pdb
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.Form1.resources
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.exe
+C:\Users\niki1\Desktop\ISPRO-PR4-master\obj\Debug\ПР4.pdb
