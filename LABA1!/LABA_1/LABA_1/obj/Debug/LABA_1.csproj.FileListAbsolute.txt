@@ -1,0 +1,12 @@
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.csproj.AssemblyReference.cache
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.Properties.Resources.resources
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.csproj.GenerateResource.cache
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.csproj.CoreCompileInputs.cache
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.Form1.resources
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.Form2.resources
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\bin\Debug\LABA_1.exe.config
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\bin\Debug\LABA_1.exe
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\bin\Debug\LABA_1.pdb
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.exe
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.pdb
+C:\Users\niki1\Desktop\ISRPO\LABA_1\LABA_1\obj\Debug\LABA_1.exe.config
