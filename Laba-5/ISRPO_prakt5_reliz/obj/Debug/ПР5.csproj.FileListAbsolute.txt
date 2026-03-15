@@ -1,0 +1,10 @@
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\bin\Debug\ПР5.exe.config
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\bin\Debug\ПР5.exe
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\bin\Debug\ПР5.pdb
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.csproj.AssemblyReference.cache
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.Form1.resources
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.Properties.Resources.resources
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.csproj.GenerateResource.cache
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.csproj.CoreCompileInputs.cache
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.exe
+C:\Users\niki1\Desktop\LAB5\ISPRO-PR5-master\obj\Debug\ПР5.pdb
