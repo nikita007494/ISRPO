@@ -1,0 +1,10 @@
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.csproj.AssemblyReference.cache
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.Properties.Resources.resources
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.csproj.GenerateResource.cache
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.csproj.CoreCompileInputs.cache
+D:\Provider\Fieldofmiracles\Fieldofmiracles\bin\Debug\Fieldofmiracles.exe.config
+D:\Provider\Fieldofmiracles\Fieldofmiracles\bin\Debug\Fieldofmiracles.exe
+D:\Provider\Fieldofmiracles\Fieldofmiracles\bin\Debug\Fieldofmiracles.pdb
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.exe
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.pdb
+D:\Provider\Fieldofmiracles\Fieldofmiracles\obj\Debug\Fieldofmiracles.exe.config
