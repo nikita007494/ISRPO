@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laba_ISRPO5", "Laba_ISRPO5\Laba_ISRPO5.csproj", "{8EBBF2B0-D575-40F3-9492-9B68D973D23B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBBF2B0-D575-40F3-9492-9B68D973D23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBBF2B0-D575-40F3-9492-9B68D973D23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBBF2B0-D575-40F3-9492-9B68D973D23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBBF2B0-D575-40F3-9492-9B68D973D23B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E70EAD6-F834-4DFD-B29B-5AD2D3AB3B88}
+	EndGlobalSection
+EndGlobal
