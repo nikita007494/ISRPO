@@ -1,0 +1,10 @@
+D:\Provider\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+D:\Provider\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+D:\Provider\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.AssemblyReference.cache
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+D:\Provider\NotesApp\NotesApp\obj\Debug\NotesApp.exe.config
