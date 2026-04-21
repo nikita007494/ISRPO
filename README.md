@@ -1,2 +1,2 @@
-Инструментальные средства разработки программного обеспечения (ИСРПО), Майсак Никита Сергеевич, группа ПР23/2.
-Данный репозиторий создан для защиты лабораторных и практических работ.
+Software Development Tools (SDT), Maysak Nikita Sergeevich, group PR23/2.
+This repository is created to protect laboratory and practical works.
