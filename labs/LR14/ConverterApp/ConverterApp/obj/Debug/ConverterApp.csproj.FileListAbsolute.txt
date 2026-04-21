@@ -1,0 +1,9 @@
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.csproj.AssemblyReference.cache
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.Properties.Resources.resources
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.csproj.GenerateResource.cache
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.csproj.CoreCompileInputs.cache
+D:\Provider\ConverterApp\ConverterApp\bin\Debug\ConverterApp.exe.config
+D:\Provider\ConverterApp\ConverterApp\bin\Debug\ConverterApp.exe
+D:\Provider\ConverterApp\ConverterApp\bin\Debug\ConverterApp.pdb
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.exe
+D:\Provider\ConverterApp\ConverterApp\obj\Debug\ConverterApp.pdb
