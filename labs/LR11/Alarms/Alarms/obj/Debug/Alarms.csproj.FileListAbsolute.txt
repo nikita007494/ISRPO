@@ -1,0 +1,10 @@
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.csproj.AssemblyReference.cache
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.Properties.Resources.resources
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.csproj.GenerateResource.cache
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.csproj.CoreCompileInputs.cache
+D:\Provider\Alarms\Alarms\bin\Debug\Alarms.exe.config
+D:\Provider\Alarms\Alarms\bin\Debug\Alarms.exe
+D:\Provider\Alarms\Alarms\bin\Debug\Alarms.pdb
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.exe
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.pdb
+D:\Provider\Alarms\Alarms\obj\Debug\Alarms.exe.config
